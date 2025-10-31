@@ -614,6 +614,7 @@ export default function Home() {
                 <li>邮箱: 52052051@qq.com</li>
                 <li>微信: 52052051</li>
                 <li>地址: 中国·北京</li>
+                <li>主站: https://52aeo.shop</li>                
               </ul>
             </div>
           </div>
