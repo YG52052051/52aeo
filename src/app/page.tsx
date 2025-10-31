@@ -41,7 +41,7 @@ export default function Home() {
               定价
             </a>
             <a href="#contact" className="hover:text-indigo-400 transition-colors">
-              联系我们
+              联系宇哥
             </a>
           </div>
           <button className="bg-gradient-to-r from-indigo-500 to-purple-600 px-6 py-2 rounded-lg font-semibold hover:shadow-lg hover:shadow-indigo-500/50 transition-all duration-300">
